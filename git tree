@@ -1,0 +1,46 @@
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  1) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  2) <html>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  3) <head>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  4) 	<meta http-equiv="content-type" content="text/html; charset=windows-1250"/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  5) 	<title></title>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  6) 	<meta name="generator" content="LibreOffice 6.0.4.2 (Windows)"/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  7) 	<meta name="created" content="2017-10-20T23:40:51.940000000"/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  8) 	<meta name="changed" content="2018-05-16T15:04:53.221000000"/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200  9) 	<style type="text/css">
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 10) 		@page { size: 21.59cm 27.94cm; margin: 2cm }
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 11) 		p { margin-bottom: 0.25cm; line-height: 120% }
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 12) 	</style>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 13) </head>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 14) <body lang="en-US" dir="ltr">
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 15) <p style="margin-bottom: 0cm; line-height: 100%">&lt;!DOCTYPE
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 16) html&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 17) &lt;html&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 18)     &lt;head&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 19)    &lt;meta
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 20) charset=&quot;UTF-8&quot;&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 21)     &lt;title&gt;strona&lt;/title&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 22) 
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 23)    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot;
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 24) href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot;&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 25) 
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 26)    &lt;link rel=&quot;stylesheet&quot;
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 27) href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&quot;
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 28) integrity=&quot;sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7&quot;
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 29) crossorigin=&quot;anonymous&quot;&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 30)     &lt;link
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 31) rel=&quot;stylesheet&quot; type=&quot;text/css&quot;
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 32) href=&quot;style.css&quot;&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 33)     &lt;link
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 34) href=&quot;https://fonts.googleapis.com/css?family=Josefin+Sans&quot;
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 35) rel=&quot;stylesheet&quot;&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 36)     &lt;/head&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 37)    
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 38) &lt;body&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 39)     &lt;/body&gt;<br/>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 40) &lt;/html&gt;</p>
+34121f9b (Wojciech Skrzypczak 2018-05-16 15:15:23 +0200 41) 	<head>asd</head>
+d4009dd0 (Wojciech Skrzypczak 2018-05-16 15:22:45 +0200 42) 	<h1>asdff</h1>
+d4009dd0 (Wojciech Skrzypczak 2018-05-16 15:22:45 +0200 43) 		<p>gfsdf</p>
+07760f05 (Wojciech Skrzypczak 2018-05-16 15:21:27 +0200 44) 	<h2></h2>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 45) </body>
+^11f935e (Wojciech Skrzypczak 2018-05-16 15:07:45 +0200 46) </html>
